@@ -1,16 +1,12 @@
-## Hi there 👋
+## 👋 Hi there, I'm Hauber.
 
-<!--
-**HauberRBLX/HauberRBLX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Student & passionate coder
+- 🐍 Main languages: Python, Luau (Roblox), HTML, CSS, JavaScript
+- 🌟 Project highlight: [Novium](https://github.com/Hauber_RBLX/Novium)
+- 🎮 Roblox: [Hauber_RBLX](https://www.roblox.com/users/Hauber_RBLX/profile)
+- 🐦 Twitter: [@Hauber_RBLX](https://twitter.com/Hauber_RBLX)
+- 👾 Reddit: [u/Hauber_RBLX](https://reddit.com/u/Hauber_RBLX)
+- 📺 YouTube: [@emdewemc](https://www.youtube.com/@emdewemc) | [@hauber_rblx](https://www.youtube.com/@hauber_rblx)
+- 💬 Discord: [@hauber_rblx](https://discord.com/users/924584843524861962)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Developer at [McRonalds](https://www.roblox.com/communities/8189157) (270k+)
