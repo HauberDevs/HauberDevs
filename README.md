@@ -2,7 +2,6 @@
 
 - 🎓 Student & passionate coder
 - 🐍 Main languages: Python, Luau (Roblox), HTML, CSS, JavaScript
-- 🌟 Project highlight: [Novium](https://github.com/HauberDevs/Novium)
 - 🎮 Roblox: [HauberDevs](https://www.roblox.com/users/HauberDevs/profile)
 - 🐦 Twitter: [@HauberDevs](https://twitter.com/HauberDevs)
 - 👾 Reddit: [u/HauberDevs](https://reddit.com/u/HauberDevs)
