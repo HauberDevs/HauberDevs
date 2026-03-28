@@ -7,3 +7,7 @@
 - 👾 Reddit: [u/Hauber_RBLX](https://reddit.com/u/Hauber_RBLX)
 - 📺 YouTube: [@emdewemc](https://www.youtube.com/@emdewemc) | [@HauberDevs](https://www.youtube.com/@HauberDevs)
 - 💬 Discord: [@hauberdevs](https://discord.com/users/924584843524861962)
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@hauberdevs?theme=normal-2" />
+</p>
