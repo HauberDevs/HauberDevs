@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Hauber
+## <p align="center">👋 Hi, I'm Hauber</p>
 
 <p align="center">
   <img src="https://count.getloli.com/get/@hauberdevs?theme=normal-2" />
